@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edith Rigot
+- 👋 Hi, I’m Edith.
 - 👀 I’m interested in many things like coding or manual activities.
 - 🌱 I’m currently learning c++, java, javafx, pyhton.
 - 😄 Pronouns: she/her.
