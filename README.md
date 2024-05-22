@@ -4,7 +4,9 @@
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I'm really bad in english.
 - 😎 Project: https://github.com/strillard/scrabble.
-![Uploading BarbieBibbleGIF.gif…]()
+
+  ![Uploading BibbleBarbieGIF.gif…]()
+
 
 <!---
 edrigot/edrigot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
