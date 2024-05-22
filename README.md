@@ -5,7 +5,10 @@
 - ⚡ Fun fact: I'm really bad in english.
 - 😎 Project: https://github.com/strillard/scrabble.
 
-  ![Uploading BibbleBarbieGIF.gif…]()
+  ![BibbleFairytopiaGIF (2)](https://github.com/edrigot/edrigot/assets/159046329/6278bdfc-2924-48c9-ab6e-9c353c69f938)
+
+
+
 
 
 <!---
