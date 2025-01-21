@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning c++, java, javafx, pyhton.
 - 😄 Pronouns: she/her.
 - ⚡ Fun fact: I'm really bad in english.
-- 😎 Project: https://github.com/strillard/scrabble.
 
  
 
